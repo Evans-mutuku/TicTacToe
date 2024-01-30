@@ -1,1 +1,3 @@
-Feel Free to clone this repo
+#### Feel Free to clone this repo
+
+`git clone https://github.com/Evans-mutuku/TicTacToe.git`
